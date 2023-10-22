@@ -13,5 +13,5 @@ Our mini project is an appointment system for Universiti Teknologi Malaysia's Pu
 
 ## Group Member
 <div id="flowchart" align="center">
-<a href="./"><img src="DSAGroupWanAmirulKetuaKami.png" width="450" height="500"></a>
+<a href="./"><img src="DSAGroupWanAmirulKetuaKami.png" width="600" height="400"></a>
 </div>
