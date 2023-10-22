@@ -11,7 +11,7 @@ Our mini project is an appointment system for Universiti Teknologi Malaysia's Pu
 - Ease of navigation to improve user experience
 - Customization of the size of patient intake
 
-## Global Flowchart
+## Group M
 <div id="flowchart" align="center">
-<a href="./"><img src="./ikmal.jpg" width="450" height="500"></a>
+<a href="./"><img src="./Mini-Project-PKU-UTM-System/DSAGroupWanAmirulKetuaKami.png" width="450" height="500"></a>
 </div>
